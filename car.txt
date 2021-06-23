@@ -1,0 +1,8 @@
+'-------------------------------------------------------------'
+'Weather Stats for - DELHI  || 23 Jun 2021 | 02:49:28 PM'
+'-------------------------------------------------------------'
+'Current temperature is: 40.05 deg C'
+'Current weather desc  :'
+'haze'
+'Current Humidity      :'
+25
